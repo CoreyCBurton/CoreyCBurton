@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @CoreyCBurton
-- 👀 I’m interested in Cyber Security.
 - 🌱 I’m currently learning Cyber Security at University of Texas at San Antonio. 
 - 📫 How to reach me ... Please email me at CoreyCBurton@gmail.com
 
