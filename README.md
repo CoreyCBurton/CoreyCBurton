@@ -1,6 +1,9 @@
 <h1 align="center"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">Hello, I'm Corey  </h1>
-- 🌱 I’m currently learning Cyber Security at University of Texas at San Antonio. 
-- 📫 How to reach me ... Please email me at CoreyCBurton@outlook.com
+
+<p align="center"> 
+🌱 I’m currently learning Cyber Security at University of Texas at San Antonio.
+ 
+
 
 <!---
 CoreyCBurton/CoreyCBurton is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
