@@ -9,7 +9,7 @@ I am currently a student at the University of Texas - San Antonio
 </p>
 
 <h1 align="center"> More about me  </h1>
-<img alt="Computer" src="images/original.gif" align="right"/>
+<img alt="Computer" src="images/200.gif" align="right"/>
 
 | 🔭 | Topic | Description  |
 | --------|-----------| ----------- |
