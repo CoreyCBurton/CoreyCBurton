@@ -22,6 +22,7 @@ I am currently a student at the University of Texas - San Antonio
 <h1 align="center"> Connect With Me  </h1>
 <p align="center"> 
 <a href="https://www.linkedin.com/in/corey-burton-70069920a/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white/"></a>
+<a href="https://twitter.com/EchoesOfDreams_"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-0077B5?style=for-the-badge&logo=Twitter&logoColor=white/"></a>
  
  
 
