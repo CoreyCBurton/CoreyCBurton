@@ -2,6 +2,7 @@
 
 <p align="center"> 
 I am currently a student at the University of Texas - San Antonio 
+![alt](images/1200px-UTSA_Logo.svg.png)
 
 <h1 align="center"> More about me  </h1>
  
