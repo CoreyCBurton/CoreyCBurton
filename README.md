@@ -11,12 +11,6 @@ I am currently a student at the University of Texas - San Antonio
 <h1 align="center"> More about me  </h1>
 <img alt="Computer" src="images/200.gif" align="right"/>
 
-| 🔭 | Topic | Description  |
-| --------|-----------| ----------- |
-| 📚 | **I’m currently learning**: | Offensive Security (OSCP) |
-| 👯 | **I’m looking to collaborate on**: | Hack The Box |
-| 🤔 | **I’m looking for help with**: | Privilege Escalation |
-| ⚡   | **Fun fact**: | I love to play the guitar 🎸 |
 
 
 <h1 align="center"> Connect With Me  </h1>
